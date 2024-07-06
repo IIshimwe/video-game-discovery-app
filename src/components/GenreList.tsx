@@ -24,7 +24,7 @@ const GenreList = ({ selectedGenre, onSelectGenre }: Props) => {
     return (
       <>
         <Spinner />
-        <Text>Loading....</Text>
+        <Text>Loading...</Text>
       </>
     );
 
